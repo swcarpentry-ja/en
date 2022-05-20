@@ -51,36 +51,36 @@
   {
     "objectID": "quickguide.html",
     "href": "quickguide.html",
-    "title": "翻訳のクイックガイド",
+    "title": "Quick guide to translation",
     "section": "",
-    "text": "“Fork” ボタンをクリックします"
+    "text": "Click on the “Fork” button"
   },
   {
-    "objectID": "quickguide.html#あなたの-fork-を-cloneもしくはdownload-する",
-    "href": "quickguide.html#あなたの-fork-を-cloneもしくはdownload-する",
-    "title": "翻訳のクイックガイド",
-    "section": "あなたの fork を CloneもしくはDownload する",
-    "text": "あなたの fork を CloneもしくはDownload する\n\nあなたのアカウントのi18nリポジトリにいることを確認します\n“Clone” をクリックします\n“HTTPS” をクリックします\nクリップボードのアイコンをクリックします (これでURLがコピーされます)\nターミナル(もしくはコマンドプロンプト)に移動し “git clone <コピーしたURLをここに貼り付ける>” を実行します\n“i18n” フォルダができていることを確認します"
+    "objectID": "quickguide.html#clonedownload-your-fork",
+    "href": "quickguide.html#clonedownload-your-fork",
+    "title": "Quick guide to translation",
+    "section": "Clone/Download your fork",
+    "text": "Clone/Download your fork\n\nMake sure you are in your account and in the forked i18n repo\nClick on “Clone”\nClick on “HTTPS”\nClick on the clipboard icon (this will copy the URL)\nGo to terminal (or command line) and enter “git clone ”\nCheck that there is an “i18n” folder"
   },
   {
-    "objectID": "quickguide.html#どのレッスンを翻訳するか決める",
-    "href": "quickguide.html#どのレッスンを翻訳するか決める",
-    "title": "翻訳のクイックガイド",
-    "section": "どのレッスンを翻訳するか決める",
-    "text": "どのレッスンを翻訳するか決める\n\nSWC-jaの i18n リポジトリに移動します\n“Issues” をクリックします\nタイトルに “Translation:” がある issue のどれかをクリックします\n説明を読みます\nこの issue にコメントし、あなたがこの翻訳に取り組むことをSWC-jaのメンバーに知らせます (コメントの例:「私はこれに取り組みます!!」)"
+    "objectID": "quickguide.html#decide-which-lesson-to-translate",
+    "href": "quickguide.html#decide-which-lesson-to-translate",
+    "title": "Quick guide to translation",
+    "section": "Decide which lesson to translate",
+    "text": "Decide which lesson to translate\n\nGo to SWC-ja’s i18n repo\nClick on “Issues”\nClick on any issue with “Translation” in the title\nRead the description\nComment on the issue to let people know that you are working on this (e.g. “I am working on this!!”)"
   },
   {
-    "objectID": "quickguide.html#翻訳する",
-    "href": "quickguide.html#翻訳する",
-    "title": "翻訳のクイックガイド",
-    "section": "翻訳する",
-    "text": "翻訳する\n\n“i18n” フォルダに移動します\n“po” フォルダに移動します\n“.ja.po” のファイル拡張子も持つファイルを見つけます\n“.ja.po” ファイルをお気に入りのPOエディターで翻訳するか、直接編集します"
+    "objectID": "quickguide.html#translate",
+    "href": "quickguide.html#translate",
+    "title": "Quick guide to translation",
+    "section": "Translate",
+    "text": "Translate\n\nGo to “i18n” folder\nGo to “po” folder\nFind any file with “.ja.po” file extension\nTranslate with your favorite PO editor or directly edit the file"
   },
   {
-    "objectID": "quickguide.html#ファイルを直接編集する場合",
-    "href": "quickguide.html#ファイルを直接編集する場合",
-    "title": "翻訳のクイックガイド",
-    "section": "ファイルを直接編集する場合",
-    "text": "ファイルを直接編集する場合\n\n“msgid” は変更しないようにします\n“msgstr” ブロックの”“の内(間)を翻訳します"
+    "objectID": "quickguide.html#directly-editing-the-file",
+    "href": "quickguide.html#directly-editing-the-file",
+    "title": "Quick guide to translation",
+    "section": "Directly editing the file",
+    "text": "Directly editing the file\n\nDo NOT change “msgid”\nTranslate anything in between the quotation marks in the “msgstr” block only"
   }
 ]
