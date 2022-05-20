@@ -1,68 +1,68 @@
 ---
-title: 翻訳のクイックガイド
+title: "Quick guide to translation"
 ---
 
-## リポジトリをforkする
+## Fork the repo
 
-1. “Fork” ボタンをクリックします
+1. Click on the "Fork" button
 
 
 ![](fork_button.png)
 
-## あなたの fork を CloneもしくはDownload する
+## Clone/Download your fork
 
-1. あなたのアカウントのi18nリポジトリにいることを確認します
+1. Make sure you are in your account and in the forked i18n repo
 
-1. “Clone” をクリックします
+1. Click on “Clone”
 
-1. “HTTPS” をクリックします
+1. Click on “HTTPS”
 
-1. クリップボードのアイコンをクリックします (これでURLがコピーされます)
+1. Click on the clipboard icon (this will copy the URL)
 
-1. ターミナル(もしくはコマンドプロンプト)に移動し “git clone <コピーしたURLをここに貼り付ける>” を実行します
+1. Go to terminal (or command line) and enter “git clone <URL>”
 
-1. “i18n” フォルダができていることを確認します
+1. Check that there is an “i18n” folder
 
 
 ![](clone1234.png)
 
 ![](clone56.png)
 
-## どのレッスンを翻訳するか決める
+## Decide which lesson to translate
 
-1. SWC-jaの i18n リポジトリに移動します
+1. Go to SWC-ja’s i18n repo
 
-1. “Issues” をクリックします
+1. Click on “Issues”
 
-1. タイトルに “Translation:” がある issue のどれかをクリックします
+1. Click on any issue with “Translation” in the title
 
-1. 説明を読みます
+1. Read the description
 
-1. この issue にコメントし、あなたがこの翻訳に取り組むことをSWC-jaのメンバーに知らせます (コメントの例:「私はこれに取り組みます!!」)
+1. Comment on the issue to let people know that you are working on this (e.g. “I am working on this!!”)
 
 
 ![](which_lesson123.png)
 
 ![](which_lesson45.png)
 
-## 翻訳する
+## Translate
 
-1. “i18n” フォルダに移動します
+1. Go to “i18n” folder
 
-1. “po” フォルダに移動します
+1. Go to “po” folder
 
-1. “.ja.po” のファイル拡張子も持つファイルを見つけます
+1. Find any file with “.ja.po” file extension
 
-1. “.ja.po” ファイルをお気に入りのPOエディターで翻訳するか、直接編集します
+1. Translate with your favorite PO editor or directly edit the file
 
 
 ![](translate123.png)
 
-## ファイルを直接編集する場合
+## Directly editing the file
 
-1. “msgid” は変更しないようにします
+1. Do NOT change “msgid”
 
-1. “msgstr” ブロックの""の内(間)を翻訳します
+1. Translate anything in between the quotation marks in the “msgstr” block only
 
 
 ![](directly_editing12.png)
