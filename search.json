@@ -37,14 +37,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "swcarpentry-ja.github.io",
+    "title": "SWC-JA",
     "section": "",
     "text": "Software Carpentry is an international community that teaches research computing lessons through workshops. The Software Carpentry JA team translates English lessons into Japanese and provides information about Software Carpentry in Japan.\nOur specific goals are to translate all the Software Carpentry lessons into Japanese, and to hold workshops in Japanese on a regular basis."
   },
   {
     "objectID": "index.html#links-for-the-translation-project",
     "href": "index.html#links-for-the-translation-project",
-    "title": "swcarpentry-ja.github.io",
+    "title": "SWC-JA",
     "section": "Links for the translation project",
     "text": "Links for the translation project\nWe manage translations at on GitHub at swcarpentry-ja/i18n.\nAll of the lessons indicated in “Lessons Currently in Translation” below are automatically updated when there is an update to swcarpentry-ja/i18n.\nIf you wish to contribute to the translation project, please the the Translation Quickguide\n\nLessons Currently in Translation\n\nR-gapminder\ngit-novice\nshell-novice"
   },
